@@ -1,0 +1,16 @@
+{
+  "name": "incoming-args",
+  "version": "0.0.1",
+  "description": "Incoming argument parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Kahn <m@vouchr.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "deep-extend": "^0.4.0",
+    "require-all": "^1.1.0",
+    "rx": "^2.5.3"
+  }
+}
