@@ -1,5 +1,5 @@
 {
-  "name": "incoming-args",
+  "name": "node-incoming",
   "version": "0.0.1",
   "description": "Incoming argument parser",
   "main": "index.js",
