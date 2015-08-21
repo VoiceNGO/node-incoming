@@ -12,7 +12,7 @@ function Incoming() {
 Incoming.prototype.__initHandlers = [];
 
 Object.keys(modules).forEach(function(key) {
-  let module = modules[key];
+  var module = modules[key];
 
   Object.keys(module).forEach(function(proto) {
     if ('init' === proto) {
